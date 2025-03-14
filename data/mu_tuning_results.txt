@@ -1,0 +1,16 @@
+Grid Search Results for Language Model (Dirichlet Smoothing)
+------------------------------------------------------------
+
+mu = 100: MAP = 0.0087
+mu = 500: MAP = 0.0097
+mu = 1000: MAP = 0.0094
+mu = 1500: MAP = 0.0095
+mu = 2000: MAP = 0.0094
+mu = 2500: MAP = 0.0086
+mu = 3000: MAP = 0.0085
+mu = 3500: MAP = 0.0083
+mu = 4000: MAP = 0.0082
+mu = 4500: MAP = 0.0082
+mu = 5000: MAP = 0.0081
+
+BEST PARAMETER: mu = 500 with MAP = 0.0097
