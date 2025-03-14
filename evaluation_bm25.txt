@@ -1,0 +1,3 @@
+map                   	all	0.2990
+P_5                   	all	0.3164
+ndcg                  	all	0.4997
